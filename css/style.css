@@ -103,6 +103,7 @@ body._lock {
 .slick-slider .slick-list {
   overflow: hidden;
 }
+
 .slick-slider .slick-track {
   display: -webkit-box;
   display: -ms-flexbox;
