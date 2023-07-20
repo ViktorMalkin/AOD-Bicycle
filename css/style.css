@@ -111,6 +111,7 @@ body._lock {
       -ms-flex-align: start;
           align-items: flex-start;
 }
+
 .slick-slider .slick-dots {
   padding: 100px 0px 0px 0px;
   display: -webkit-box;
