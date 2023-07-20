@@ -98,6 +98,7 @@ body._lock {
 .slick-slider {
   position: relative;
 }
+
 .slick-slider .slick-list {
   overflow: hidden;
 }
