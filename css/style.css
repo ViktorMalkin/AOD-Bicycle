@@ -322,6 +322,7 @@ body._lock {
   .menu__list li:last-child {
     padding: 0;
   }
+	
   .menu__list li::after {
     width: 4px;
     height: 4px;
