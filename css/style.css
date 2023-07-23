@@ -251,6 +251,7 @@ body._lock {
   top: 50%;
   margin: -1.5px 0px 0px 0px;
 }
+
 .menu__list li:nth-child(2)::after, .menu__list li:last-child::after {
   display: none;
 }
