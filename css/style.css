@@ -235,6 +235,7 @@ body._lock {
 .menu__list li:nth-child(2) {
   padding: 0px 110px 0px 37.5px;
 }
+
 .menu__list li:nth-child(3) {
   padding: 0px 37.5px 0px 110px;
 }
