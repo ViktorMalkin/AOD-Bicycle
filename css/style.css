@@ -529,6 +529,7 @@ body._lock {
       -ms-flex-order: 1;
           order: 1;
 }
+
 .brands-rev .brands__column-b {
   -webkit-box-ordinal-group: 3;
       -ms-flex-order: 2;
