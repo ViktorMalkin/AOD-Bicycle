@@ -511,6 +511,7 @@ body._lock {
   font-weight: 400;
   color: #848789;
 }
+
 .block__text-j::after {
   content: "";
   display: block;
