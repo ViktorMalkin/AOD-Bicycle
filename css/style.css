@@ -537,6 +537,7 @@ body._lock {
       -ms-flex-order: 2;
           order: 2;
 }
+
 .brands__row {
   display: -webkit-box;
   display: -ms-flexbox;
