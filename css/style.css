@@ -775,6 +775,7 @@ body._lock {
 .block-shop {
   height: 100%;
 }
+
 .block-shop__row {
   display: -webkit-box;
   display: -ms-flexbox;
