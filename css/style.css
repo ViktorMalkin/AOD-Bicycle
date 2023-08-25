@@ -736,6 +736,7 @@ body._lock {
   padding: 0px 60px;
   border: 1px solid rgba(255, 255, 255, 0.5);
 }
+
 .shop__btn:hover {
   background-color: #353e45;
   -webkit-box-shadow: 0 0 30px rgba(100, 194, 158, 0.5);
