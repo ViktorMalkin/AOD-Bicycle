@@ -875,6 +875,7 @@ body._lock {
 .subscribe__input .input.err {
   border: 1px solid red;
 }
+
 .subscribe__button {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 126px;
