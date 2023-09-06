@@ -871,6 +871,7 @@ body._lock {
   font-style: normal;
   color: #333;
 }
+
 .subscribe__input .input.err {
   border: 1px solid red;
 }
