@@ -850,6 +850,7 @@ body._lock {
   font-size: 20px;
   font-style: italic;
 }
+
 .subscribe__input .input:hover {
   -webkit-transition: all 0.6s ease 0.2s;
   transition: all 0.6s ease 0.2s;
