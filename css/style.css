@@ -858,6 +858,7 @@ body._lock {
   -webkit-box-shadow: 0px 0px 30px rgba(100, 194, 158, 0.5);
           box-shadow: 0px 0px 30px rgba(100, 194, 158, 0.5);
 }
+
 .subscribe__input .input:focus {
   -webkit-transition: all 0.6s ease 0.2s;
   transition: all 0.6s ease 0.2s;
