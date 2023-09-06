@@ -866,6 +866,7 @@ body._lock {
   -webkit-box-shadow: 0 0 30px rgba(100, 194, 158, 0.5);
           box-shadow: 0 0 30px rgba(100, 194, 158, 0.5);
 }
+
 .subscribe__input .input.focus {
   font-style: normal;
   color: #333;
